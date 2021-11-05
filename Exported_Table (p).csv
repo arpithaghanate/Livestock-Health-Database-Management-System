@@ -1,0 +1,2 @@
+p_no,p_date,p_company,p_gst,item_name,quantity,order_item_price,order_item_actual_amount,or_tax1_rate,or_Tax1_amount,or_final_amt
+222,2020-01-10,abc,123,paint-100 ml,2,100,200,5,10,210
